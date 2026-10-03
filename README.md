@@ -6,13 +6,13 @@ Ejercicio de clasificación binaria para predecir si un cliente de una asegurado
 
 ## Variables
 
-| Variable | Descripción |
-|---|---|
-| `antiguedad_meses` | Antigüedad del cliente, en meses |
-| `prima_mensual` | Valor de la prima mensual |
-| `reclamos_12m` | Número de reclamos en los últimos 12 meses |
-| `contactos_soporte` | Número de contactos a soporte |
-| `cancela` (objetivo) | 0 = renueva, 1 = cancela |
+| Variable             | Descripción                                |
+| -------------------- | ------------------------------------------ |
+| `antiguedad_meses`   | Antigüedad del cliente, en meses           |
+| `prima_mensual`      | Valor de la prima mensual                  |
+| `reclamos_12m`       | Número de reclamos en los últimos 12 meses |
+| `contactos_soporte`  | Número de contactos a soporte              |
+| `cancela` (objetivo) | 0 = renueva, 1 = cancela                   |
 
 ## Datos
 
